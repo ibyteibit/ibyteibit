@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello!
+# My name is Devin, and I am studying Computer Engineering with minor in Materials Science at BU. 
 
 <!--
 **ibyteibit/ibyteibit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
