@@ -1,5 +1,12 @@
 # Hello!
-## My name is Devin, and I am studying Computer Engineering with minor in Materials Science at BU. 
+**My name is Devin, and I am studying Computer Engineering with a minor in Materials Science at BU.**
+
+I am primarily interested in computer architecture and hardware design, but you will find software projects here as well. 
+
+## Projects
+**Verilog & FPGA:** Decimal2Binary
+**Arduino & Circuitry:** Car Click-Off, Whack-a-Mole, and Room Temperature Sensor
+**Java:** Game of Life
 
 <!--
 **ibyteibit/ibyteibit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
