@@ -4,15 +4,13 @@
 I am primarily interested in computer architecture and hardware design, but have worked on several software projects as well, like *Game of Life*.
 
 ## Projects
-**Verilog & FPGA:** 
+### Verilog & FPGA: 
 - Decimal2Binary
-
-**Arduino & Circuitry:** 
+### Arduino & Circuitry:
 - Car Click-Off
 - Whack-a-Mole
 - Room Temperature Sensor
-
-**Java:** 
+### Java: 
 - Game of Life
 
 <!--
