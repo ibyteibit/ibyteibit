@@ -9,7 +9,7 @@
 ### Arduino & Circuitry:
 - [Car Click-Off](https://github.com/ibyteibit/Car-Click-Off)
 - [Whack-a-Mole](https://github.com/ibyteibit/Whack-a-Mole)
-- [Room Temperature Sensor](https://github.com/ibyteibit/Room-Temperature-Sensor)
+- [Room Temperature Monitor](https://github.com/ibyteibit/Room-Temperature-Monitor)
 ### Java: 
 - [Game of Life](https://github.com/ibyteibit/Game-of-Life)
 
