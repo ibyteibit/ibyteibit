@@ -1,7 +1,7 @@
 # Hello!
 **My name is Devin, and I am studying Computer Engineering 🖥️ at BU.** 
 
-⚡I am primarily interested in computer architecture and hardware design, but also enjoy programming too!⚡
+⚡I am primarily interested in computer architecture and hardware design, but also enjoy programming too!
 
 ## Projects
 ### Verilog & FPGA: 
