@@ -1,17 +1,17 @@
 # Hello!
-**My name is Devin, and I am studying Computer Engineering at BU.**
+**My name is Devin, and I am studying Computer Engineering 🖥️ at BU.** 
 
-I am primarily interested in computer architecture and hardware design, but have worked on several software projects as well, see *Game of Life*.
+⚡I am primarily interested in computer architecture and hardware design, but also enjoy programming too!
 
 ## Projects
 ### Verilog & FPGA: 
-- Decimal2Binary
+- [Decimal2Binary](https://github.com/ibyteibit/Decimal2Binary)
 ### Arduino & Circuitry:
-- Car Click-Off
-- Whack-a-Mole
-- Room Temperature Sensor
+- [Car Click-Off](https://github.com/ibyteibit/Car-Click-Off)
+- [Whack-a-Mole](https://github.com/ibyteibit/Whack-a-Mole)
+- [Room Temperature Sensor](https://github.com/ibyteibit/Room-Temperature-Sensor)
 ### Java: 
-- Game of Life
+- [Game of Life](https://github.com/ibyteibit/Game-of-Life)
 
 <!--
 **ibyteibit/ibyteibit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
