@@ -7,7 +7,9 @@
 ### Verilog & FPGA: 
 - [Decimal2Binary](https://github.com/ibyteibit/Decimal2Binary)
 ### Arduino & Circuitry:
+- [LiteCom IR Communication System](https://github.com/ibyteibit/LiteCom)
 - [Car Click-Off](https://github.com/ibyteibit/Car-Click-Off)
+- [ORP Salinity Sensor](https://github.com/ibyteibit/ORP-Salinity-Sensor)
 - [Whack-a-Mole](https://github.com/ibyteibit/Whack-a-Mole)
 - [Room Temperature Monitor](https://github.com/ibyteibit/Room-Temperature-Monitor)
 ### Java: 
