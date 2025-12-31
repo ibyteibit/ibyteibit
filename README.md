@@ -6,7 +6,7 @@
 ## Projects
 ### Verilog & FPGA: 
 - [Decimal2Binary](https://github.com/ibyteibit/Decimal2Binary)
-### Arduino & Circuitry:
+### Embedded Programming & Circuitry:
 - [LiteCom IR Communication System](https://github.com/ibyteibit/LiteCom)
 - [Car Click-Off](https://github.com/ibyteibit/Car-Click-Off)
 - [ORP Salinity Sensor](https://github.com/ibyteibit/ORP-Salinity-Sensor)
