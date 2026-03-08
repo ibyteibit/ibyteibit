@@ -1,7 +1,7 @@
 # Hello!
 **My name is Devin, and I am studying Computer Engineering 🖥️ and Electrical Engineering 📟 at BU.** 
 
-⚡I enjoy everything from circuitry to software engineering, including computer architecture and embedded systems!
+⚡I enjoy everything from circuitry to software engineering, including computer architecture and embedded systems.
 
 ## Projects
 ### Verilog & FPGA: 
