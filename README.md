@@ -6,6 +6,8 @@
 ## Projects
 ### Verilog & FPGA: 
 - [Decimal2Binary](https://github.com/ibyteibit/Decimal2Binary)
+### High-Performance Programming:
+- [High-Performance Machine Learning](https://github.com/masonpfeiffer3/EC527_HighPerformanceProgramming_Project)
 ### Embedded Systems & Circuitry:
 - [LiteCom IR Communication System](https://github.com/ibyteibit/LiteCom)
 - [Car Click-Off](https://github.com/ibyteibit/Car-Click-Off)
